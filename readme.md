@@ -1,7 +1,7 @@
 # MCDHGN: Heterogeneous Network-based Cancer Driver Gene Prediction and Interpretability Analysis
 ## Abstract
 We trying to establish a novel cancer driver gene mining method based on heterogeneous network metapaths. First, we constructed a heterogeneous network using several types of multi-omics data that are biologically linked to genes. Subsequently, we form nine metapaths using genes as start and end nodes, and the representation vectors obtained by aggregating information within and across metapath nodes can be used as new gene features for subsequent classification and prediction tasks. In addition, we hope to improve the biological interpretability of the predictions by analysing the contribution of different metapathways. 
-![framework](./pipeline.png)
+![framework](./pipeline2024.png)
 ## Data
 All the nodes we use to build the network and the connections between them can be found in the './data/' folder:  
 
